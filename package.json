@@ -2,7 +2,7 @@
   "name": "@axelspringer/graphql-google-pubsub",
   "version": "2.1.0",
   "description": "A graphql-subscriptions PubSub Engine using Google PubSub",
-  "main": "dist/index.js",
+  "main": "bin/index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/axelspringer/graphql-google-pubsub.git"
